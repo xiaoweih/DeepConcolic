@@ -1,6 +1,6 @@
 # DeepConcolic (Concolic Testing for Deep Neural Networks)
 
-add 
+add two other software 
 
 ![alt text](images/deepconcolic-logo2.png)
 
